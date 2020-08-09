@@ -1,0 +1,3 @@
+Questão 01
+
+Complexidade: O(n + k) = O(n), onde que "n" e o tamanho da string, e "k" e o dobro da quantidade de espacos

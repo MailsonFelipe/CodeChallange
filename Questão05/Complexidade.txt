@@ -1,0 +1,3 @@
+Questão 05
+
+Complexidade: O(n*(n-1)) = O(n²-n) = O(n²), onde que "n" e o tamanho da lista encadeada
